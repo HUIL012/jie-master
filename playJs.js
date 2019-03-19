@@ -304,6 +304,5 @@ $(document).ready(function(){
 	menn.x = parseInt(cteWidth/2-100);
 	menn.y = cteHeight-150;
 	
-	
-	document.getElementById("bgmu").volume = 0.6;  //设置背景音乐音量
+	//document.getElementById("bgmu").volume = 0.6;  //设置背景音乐音量
 });
