@@ -303,4 +303,7 @@ $(document).ready(function(){
 	cteHeight = parseInt($("#canvas").height());
 	menn.x = parseInt(cteWidth/2-100);
 	menn.y = cteHeight-150;
+	
+	
+	document.getElementById("bgmu").volume = 0.6;  //设置背景音乐音量
 });
